@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=DA575E149AE1CE4FAC7731F4DB6EBB5B/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=DA575E149AE1CE4FAC7731F4DB6EBB5B/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=DA575E149AE1CE4FAC7731F4DB6EBB5B/Name/@EntryValue">FifteenPuzzle</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=DA575E149AE1CE4FAC7731F4DB6EBB5B/ProjectGuid/@EntryValue">AE0BCFCADAB8DA429AD7D7D6DBF2F0C5</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">DA575E149AE1CE4FAC7731F4DB6EBB5B</s:String></wpf:ResourceDictionary>

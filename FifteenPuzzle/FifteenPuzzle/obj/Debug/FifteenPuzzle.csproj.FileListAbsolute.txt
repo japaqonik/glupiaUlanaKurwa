@@ -1,0 +1,6 @@
+C:\repo\glupiaUlanaKurwa\FifteenPuzzle\FifteenPuzzle\bin\Debug\FifteenPuzzle.exe.config
+C:\repo\glupiaUlanaKurwa\FifteenPuzzle\FifteenPuzzle\bin\Debug\FifteenPuzzle.exe
+C:\repo\glupiaUlanaKurwa\FifteenPuzzle\FifteenPuzzle\bin\Debug\FifteenPuzzle.pdb
+C:\repo\glupiaUlanaKurwa\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.exe
+C:\repo\glupiaUlanaKurwa\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.pdb
+C:\repo\glupiaUlanaKurwa\FifteenPuzzle\FifteenPuzzle\obj\Debug\FifteenPuzzle.csprojResolveAssemblyReference.cache
